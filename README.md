@@ -45,7 +45,7 @@ browser.safebrowsing.phishing.enabled to "true"
 browser.safebrowsing.downloads.enabled to "true"
 browser.safebrowsing.downloads.remote.enabled to "true"
 browser.safebrowsing.provider.mozilla.updateURL to "https://safebrowsing.mozilla.org/update?version=%VERSION%&appver=%APP_VERSION%&pver=2.2"
-browser.safebrowsing.provider.mozilla.gethashURL to "https://safebrowsing.mozilla.org/gethash?client=firefox&appver=%APP_VERSION%&pver=2.2&keyver=%KEY_VERSION%",
+browser.safebrowsing.provider.mozilla.gethashURL to "https://safebrowsing.mozilla.org/gethash?client=firefox&appver=%APP_VERSION%&pver=2.2&keyver=%KEY_VERSION%"
 ```
 ## Contributing
 If you have any suggestions or improvements, feel free to open a pull request or create an issue.
