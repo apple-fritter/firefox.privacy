@@ -49,3 +49,7 @@ browser.safebrowsing.provider.mozilla.gethashURL to "https://safebrowsing.mozill
 ```
 ## Contributing
 If you have any suggestions or improvements, feel free to open a pull request or create an issue.
+
+## License
+
+This script is released under the [MIT License](LICENSE).
